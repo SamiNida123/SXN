@@ -399,4 +399,32 @@ from{
 
 }
 
+
+@media screen and (max-width: 500px) {
+  .slider {width:90%;}
+  #testimonials {background-size:600px 100%;}
+  .bk
+  { height:1200; }
+
+ @keyframes pics
+{
+  to
+  {
+    left:0px;
+  }
+from{
+  left:-2100px;
+}
+} 
+
+
+}
+
+
+
+
+
+
+
+
  
